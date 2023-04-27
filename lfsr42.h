@@ -19,5 +19,4 @@ uint64_t lfsr42_galois(uint64_t shift, uint64_t initial_state);
 void show_v(vector_t vv);
 void show_w(matrix_t mm);
 
-
 #endif
